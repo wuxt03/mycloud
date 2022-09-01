@@ -1,0 +1,16 @@
+server:
+  port: 6001
+spring:
+  application:
+    name: cloud-alibaba-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.111.146:8848
+      config:
+        server-addr: 192.168.111.146:8848
+        file-extension: yaml
+        namespace: 6c8f9c51-fcb0-4b96-8cf6-3c262280ecb2
+        group: DEV_GROUP
+serverInfo:
+  url: http://cloud-alibaba-payment

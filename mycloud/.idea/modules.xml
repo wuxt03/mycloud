@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clloud-alibaba-consumer6001/clloud-alibaba-consumer6001.iml" filepath="$PROJECT_DIR$/clloud-alibaba-consumer6001/clloud-alibaba-consumer6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-payment9001/cloud-alibaba-payment9001.iml" filepath="$PROJECT_DIR$/cloud-alibaba-payment9001/cloud-alibaba-payment9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-payment9002/cloud-alibaba-payment9002.iml" filepath="$PROJECT_DIR$/cloud-alibaba-payment9002/cloud-alibaba-payment9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-common/cloud-api-common.iml" filepath="$PROJECT_DIR$/cloud-api-common/cloud-api-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-zkorder/cloud-consumer-zkorder.iml" filepath="$PROJECT_DIR$/cloud-consumer-zkorder/cloud-consumer-zkorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eurake-server7002/cloud-eurake-server7002.iml" filepath="$PROJECT_DIR$/cloud-eurake-server7002/cloud-eurake-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-order/cloud-order.iml" filepath="$PROJECT_DIR$/cloud-order/cloud-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-payment/cloud-payment.iml" filepath="$PROJECT_DIR$/cloud-payment/cloud-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-payment8002/cloud-payment8002.iml" filepath="$PROJECT_DIR$/cloud-payment8002/cloud-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-payment8004/cloud-payment8004.iml" filepath="$PROJECT_DIR$/cloud-payment8004/cloud-payment8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-wxt.cloud-feign-order/cloud-wxt.cloud-feign-order.iml" filepath="$PROJECT_DIR$/cloud-wxt.cloud-feign-order/cloud-wxt.cloud-feign-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycloud.iml" filepath="$PROJECT_DIR$/mycloud.iml" />
+    </modules>
+  </component>
+</project>

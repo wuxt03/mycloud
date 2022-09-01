@@ -1,0 +1,11 @@
+server:
+  port: 8004
+  servlet:
+    context-path: /payment
+spring:
+  application:
+    name: payment-zookeeper
+  cloud:
+    zookeeper:
+      #注册到zk
+      connect-string: 192.168.111.146:2181

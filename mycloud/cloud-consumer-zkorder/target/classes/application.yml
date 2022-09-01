@@ -1,0 +1,9 @@
+server:
+  port: 8015
+spring:
+  application:
+    name: orderzk-zookeeper
+  cloud:
+    zookeeper:
+      #注册到zk
+      connect-string: 192.168.111.146:2181
